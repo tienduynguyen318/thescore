@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json
+
+[{"Player":"Joe Banyard","Team":"","Pos":"","Att":0,"Att/G":0,"Yds":7,"Avg":0,"Yds/G":0,"TD":6,"Lng":"7","1st":0,"1st%":0,"20+":0,"40+":0,"FUM":0}]
